@@ -1,0 +1,8 @@
+// Configuração do Code Runner
+// Criamos esse arquivo para alterar somente nesse projeto
+
+{
+  "code-runner.executorMap": {
+    "typescript": "clear && npx ts-node --files --transpile-only"
+  }
+}
