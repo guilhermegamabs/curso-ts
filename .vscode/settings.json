@@ -1,5 +1,6 @@
 {
   "code-runner.executorMap": {
+    "editor.fontSize": 20,
     "typescript": "npx ts-node --files --transpile-only"
   }
 }
